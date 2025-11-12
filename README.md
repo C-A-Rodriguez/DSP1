@@ -1,9 +1,12 @@
 **pandas and numpy**
 - data manipulation and statistic methods 
+
 **matplotlib.pyplot and seaborn**
 - data visualizatoins
+
 **sklearn.model_selection import train_test_split, sklearn.linear_model import LinearRegression, sklearn.metrics import mean_squared_error, r2_score**
 - tests and modeling for accuracey and predictions 
+
 **sklearn.preprocessing import PolynomialFeatures and sklearn.pipeline import make_pipeline**
 - testing for nonlinear data and preprocessing steps 
 
